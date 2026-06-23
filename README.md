@@ -1,28 +1,29 @@
-# Hi, I'm Jaden 👋
+# Hi, I'm Jaden
 
-I'm a cybersecurity student and FinTech integration specialist working on secure microservices, cloud security, and compliance-driven systems. I enjoy building hands-on security labs, improving infrastructure, and working on real-world projects that blend cybersecurity, DevSecOps, and software engineering fundamentals.
+I'm a software engineering and cybersecurity student working in FinTech while earning my B.S. in Cybersecurity with a Computer Science minor at Southern Utah University.
 
-### 🔐 What I'm focused on
-- Cybersecurity (Cloud Security, SOC/IR fundamentals, DevSecOps)
-- Secure microservices (JWT/HMAC, tenant isolation, containerization)
-- Compliance & risk (KYC/AML, audit readiness, fraud anomaly review)
-- Windows sysadmin labs, AWS guardrails, and security tooling
+I build secure systems, document practical security labs, and use AI-assisted developer workflows to move faster without skipping review, tests, or evidence.
 
-### 🚀 What I'm currently learning
-- AWS security (IAM, CloudTrail, GuardDuty, Config)
-- Containerized microservice design (FastAPI, Docker, Redis/Postgres)
-- Linux systems & shell fundamentals
-- Python and light web development for security tooling
+## Security
 
-### 🤝 Looking to collaborate on
-- Cybersecurity projects, audits, and labs  
-- Cloud security and DevSecOps mini-projects  
-- Anything that helps students break into cybersecurity
+- Building a public cybersecurity portfolio with AWS guardrails, SOHO/network assessments, Windows hardening, IDS/honeypot work, and incident-style write-ups.
+- Practicing secure API and service patterns: JWT/HMAC validation, tenant scoping, audit-ready documentation, and structured logging for future SIEM use.
+- Interested in Security Analyst/SOC, Security Engineering, AppSec, DevSecOps, Cloud Security, and AI security-adjacent roles.
 
-### 📫 Connect with me
-LinkedIn: **https://www.linkedin.com/in/jaden-maciel-133ab2281/**  
-GitHub Projects: Check my repos for AWS, Windows hardening, microservices, and security labs.
+## Software
 
-<!---
-jadenmaciel/jadenmaciel is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
+- Work in FinTech on partner-facing integrations and secure service workflows using Python/FastAPI, Docker, AWS/GCP, and API documentation.
+- Built and launched an iOS app with SwiftUI, Firebase, RevenueCat, App Store release work, privacy/compliance documentation, automated tests, and marketing assets.
+- Comfortable translating technical security and compliance expectations into practical checklists for partners and non-technical stakeholders.
+
+## AI Automation
+
+- Use Codex/Claude-style workflows for planning, implementation, review, documentation, and verification.
+- Treat AI as an accelerator, not an authority: tests, review, screenshots, docs, and manual checks still matter.
+- Interested in teams that value secure software delivery, cloud/security fundamentals, and thoughtful AI-assisted engineering.
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/jaden-maciel-133ab2281/
+- Portfolio: https://github.com/jadenmaciel/cyber-portfolio
+- Email: jadenmacielshapiro@gmail.com

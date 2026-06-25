@@ -1,29 +1,28 @@
 # Hi, I'm Jaden
 
-I'm a software engineering and cybersecurity student working in FinTech while earning my B.S. in Cybersecurity with a Computer Science minor at Southern Utah University.
+I'm a full-stack developer working in fintech, building secure product workflows across APIs, cloud infrastructure, mobile apps, and AI-assisted engineering systems.
 
-I build secure systems, document practical security labs, and use AI-assisted developer workflows to move faster without skipping review, tests, or evidence.
+I like shipping useful software with evidence behind it: tests, review, screenshots, documentation, threat models, and clear tradeoffs.
+
+## Product + Engineering
+
+- Build partner-facing fintech integrations and secure service workflows with Python/FastAPI, Docker, AWS/GCP, and API documentation.
+- Shipped Purely, an iOS app built with SwiftUI, Firebase, RevenueCat, privacy/compliance docs, automated tests, App Store release work, and marketing assets.
+- Turn security and compliance requirements into practical checklists, developer workflows, and partner-facing implementation details.
 
 ## Security
 
-- Building a public cybersecurity portfolio with AWS guardrails, SOHO/network assessments, Windows hardening, IDS/honeypot work, and incident-style write-ups.
-- Practicing secure API and service patterns: JWT/HMAC validation, tenant scoping, audit-ready documentation, and structured logging for future SIEM use.
-- Interested in Security Analyst/SOC, Security Engineering, AppSec, DevSecOps, Cloud Security, and AI security-adjacent roles.
+- Document hands-on security labs covering AWS guardrails, SOHO/network assessments, Windows hardening, IDS/honeypot work, and incident-style reporting.
+- Practice secure API and service patterns: JWT/HMAC validation, tenant scoping, audit-ready docs, and structured logging for future SIEM use.
+- Interested in AppSec, DevSecOps, cloud security, AI security, and secure systems engineering.
 
-## Software
-
-- Work in FinTech on partner-facing integrations and secure service workflows using Python/FastAPI, Docker, AWS/GCP, and API documentation.
-- Built and launched an iOS app with SwiftUI, Firebase, RevenueCat, App Store release work, privacy/compliance documentation, automated tests, and marketing assets.
-- Comfortable translating technical security and compliance expectations into practical checklists for partners and non-technical stakeholders.
-
-## AI Automation
+## AI-Assisted Workflows
 
 - Use Codex/Claude-style workflows for planning, implementation, review, documentation, and verification.
-- Treat AI as an accelerator, not an authority: tests, review, screenshots, docs, and manual checks still matter.
-- Interested in teams that value secure software delivery, cloud/security fundamentals, and thoughtful AI-assisted engineering.
+- Build small automation loops that speed up delivery without replacing human review or security judgment.
+- Treat AI as an accelerator, not an authority: tests, review, docs, and manual checks still decide what ships.
 
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/jaden-maciel-133ab2281/
-- Portfolio: https://github.com/jadenmaciel/cyber-portfolio
-- Email: jadenmacielshapiro@gmail.com
+- Security portfolio: https://github.com/jadenmaciel/cyber-portfolio

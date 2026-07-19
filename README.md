@@ -1,28 +1,27 @@
-# Hi, I'm Jaden
+# Jaden Maciel-Shapiro
 
-I'm a full-stack developer working in fintech, building secure product workflows across APIs, cloud infrastructure, mobile apps, and AI-assisted engineering systems.
+Full Stack Developer building AI agents, MCP tools, and cloud systems. Python, Go, Rust.
 
-I like shipping useful software with evidence behind it: tests, review, screenshots, documentation, threat models, and clear tradeoffs.
+## Featured work
 
-## Product + Engineering
+### [AI Engineering Portfolio](https://github.com/jadenmaciel/ai-engineering-portfolio)
 
-- Build partner-facing fintech integrations and secure service workflows with Python/FastAPI, Docker, AWS/GCP, and API documentation.
-- Shipped Purely, an iOS app built with SwiftUI, Firebase, RevenueCat, privacy/compliance docs, automated tests, App Store release work, and marketing assets.
-- Turn security and compliance requirements into practical checklists, developer workflows, and partner-facing implementation details.
+Public proof of my work in agent orchestration, AI infrastructure, and product engineering.
 
-## Security
+### [symphony-rs](https://github.com/jadenmaciel/symphony-rs)
 
-- Document hands-on security labs covering AWS guardrails, SOHO/network assessments, Windows hardening, IDS/honeypot work, and incident-style reporting.
-- Practice secure API and service patterns: JWT/HMAC validation, tenant scoping, audit-ready docs, and structured logging for future SIEM use.
-- Interested in AppSec, DevSecOps, cloud security, AI security, and secure systems engineering.
+A Rust implementation of the OpenAI Symphony draft orchestration spec. It coordinates Linear issues, isolated workspaces, and Codex app-server sessions.
 
-## AI-Assisted Workflows
+### [Purely](https://apps.apple.com/us/app/purely-clean-beauty-scanner/id6761502791)
 
-- Use Codex/Claude-style workflows for planning, implementation, review, documentation, and verification.
-- Build small automation loops that speed up delivery without replacing human review or security judgment.
-- Treat AI as an accelerator, not an authority: tests, review, docs, and manual checks still decide what ships.
+An iOS ingredient scanner built with SwiftUI, Firebase, RevenueCat, barcode and label capture, AI-assisted analysis, automated tests, and privacy documentation.
+
+## AI tools
+
+- [openviking-mcp](https://github.com/jadenmaciel/openviking-mcp): MCP server for OpenViking context databases.
+- [transcript](https://github.com/jadenmaciel/transcript): Cross-platform transcript automation for YouTube, TikTok, and Instagram.
+- [prompt-improver](https://github.com/jadenmaciel/prompt-improver): Offline macOS app for improving prompts without an API key.
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/jaden-maciel-133ab2281/
-- Security portfolio: https://github.com/jadenmaciel/cyber-portfolio
+- [LinkedIn](https://www.linkedin.com/in/jaden-maciel/)

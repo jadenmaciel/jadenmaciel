@@ -1,0 +1,18 @@
+README.md
+  h_aaa6734ea48bd5 1-4,6,8,10,12,14-17,19,21,23-28,30,32
+assets/dial-dark.svg
+  h_aaa6734ea48bd5 1-15
+assets/dial-light.svg
+  h_aaa6734ea48bd5 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dc0824fdf242d5cf060d90d655a3769f13756b57",
+  "prompts": {},
+  "humans": {
+    "h_aaa6734ea48bd5": {
+      "author": "Jaden Maciel-Shapiro <195352788+jadenmaciel@users.noreply.github.com>"
+    }
+  }
+}
